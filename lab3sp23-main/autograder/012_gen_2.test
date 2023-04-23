@@ -1,0 +1,6 @@
+NAME:generate_public_2
+BINARY:teragen
+POINTVAL:0
+TYPE:internal
+INPUT:-c 819 -f autograder/dat002.student
+OUTPUT:
